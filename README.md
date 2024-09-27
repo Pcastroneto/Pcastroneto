@@ -5,5 +5,5 @@
 
 ---
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/e570f94b-817a-433f-bb0d-362fa8d96f2c" alt="code-moment">
+  <img src="https://github.com/user-attachments/assets/2cdd61c5-d4b7-456c-8b0c-584f880d46ee" alt="code-moment">
 </div>
