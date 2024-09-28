@@ -16,6 +16,6 @@
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d6bdb4ad-036e-460c-8831-1551e61ece62" data-share-badge-host="https://www.credly.com"></div>
 <script type="text/javascript" async src=""></script>
 
-### Meu Badge de Certificação
+### Minhas Badges de Certificação
 
-[![Veja meu badge]([https://github.com/user-attachments/assets/0fd457e6-5680-4223-aef3-edbf88eeb440))](https://www.credly.com/badges/d6bdb4ad-036e-460c-8831-1551e61ece62)
+[![Veja meu badge]([))](https://www.credly.com/badges/d6bdb4ad-036e-460c-8831-1551e61ece62)
