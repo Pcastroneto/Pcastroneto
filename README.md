@@ -13,8 +13,6 @@
   <p style="margin-left: 20px;">Aqui você pode adicionar seu texto ao lado da imagem do GitHub Streak!</p>
 </div>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d6bdb4ad-036e-460c-8831-1551e61ece62" data-share-badge-host="https://www.credly.com"></div>
-<script type="text/javascript" async src=""></script>
 
 ### Minhas Badges de Certificação
 
