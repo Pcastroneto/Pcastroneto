@@ -20,3 +20,4 @@
 
 [![BADGE AI-900](./assets/microsoft-certified-azure-ai-fundamentals.png)](https://www.credly.com/badges/d6bdb4ad-036e-460c-8831-1551e61ece62) 
 
+[![Veja meu badge](./assets/microsoft-certified-azure-data-fundamentals.png)]([https://www.credly.com/badges/d6bdb4ad-036e-460c-8831-1551e61ece62](https://www.credly.com/badges/d6bdb4ad-036e-460c-8831-1551e61ece62/public_url))
