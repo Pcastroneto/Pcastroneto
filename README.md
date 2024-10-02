@@ -10,7 +10,6 @@
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://streak-stats.demolab.com?user=Pcastroneto&theme=dark&hide_border=true&border_radius=6.4&locale=pt_BR&background=000000&ring=B71001&fire=D51301&currStreakLabel=FF1601&hide_longest_streak=true" alt="GitHub Streak" />
-  <p style="margin-left: 20px;">Aqui você pode adicionar seu texto ao lado da imagem do GitHub Streak!</p>
 </div>
 
 
