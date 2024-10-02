@@ -17,9 +17,15 @@
 ### Minhas Badges de Certificação
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="BADGE AI-900" height="155" width="155" src="./assets/microsoft-certified-azure-ai-fundamentals.png">
-  <img align="center" alt="BADGE DP-900" height="155" width="155" src="./assets/microsoft-certified-azure-data-fundamentals.png">
-  <img align="center" alt="computer-hardware-basics" height="155" width="155" src="https://github.com/user-attachments/assets/3443ff17-68e5-4fa8-aa1a-4bc3d321690e" href ="https://www.credly.com/badges/e191b3a3-fea8-428d-bc77-9c74e7cdf592/public_url">
+  <a href="https://www.credly.com/badges/d6bdb4ad-036e-460c-8831-1551e61ece62/public_url" target="_blank">
+    <img align="center" alt="BADGE AI-900" height="155" width="155" src="./assets/microsoft-certified-azure-ai-fundamentals.png">
+  </a>
+  <a href="https://www.credly.com/badges/d3e72faa-2492-4c38-b873-d87e3399d02c/public_url" target="_blank">
+    <img align="center" alt="BADGE DP-900" height="155" width="155" src="./assets/microsoft-certified-azure-data-fundamentals.png">
+  </a>
+  <a href="https://www.credly.com/badges/e191b3a3-fea8-428d-bc77-9c74e7cdf592/public_url" target="_blank">
+    <img align="center" alt="computer-hardware-basics" height="155" width="155" src="https://github.com/user-attachments/assets/3443ff17-68e5-4fa8-aa1a-4bc3d321690e">
+  </a>
 </div>
 
   
