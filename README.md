@@ -18,7 +18,7 @@
 
 <div style="display: inline_block"><br>
   <a href="https://www.credly.com/badges/d6bdb4ad-036e-460c-8831-1551e61ece62/public_url" target="_blank">
-    <img align="center" alt="BADGE AI-900" height="155" width="155" src="./assets/microsoft-certified-azure-ai-fundamentals.png">
+    <img align="center" alt="BADGE AI-900" height="150" width="150" src="./assets/microsoft-certified-azure-ai-fundamentals.png">
   </a>
   <a href="https://www.credly.com/badges/d3e72faa-2492-4c38-b873-d87e3399d02c/public_url" target="_blank">
     <img align="center" alt="BADGE DP-900" height="155" width="155" src="./assets/microsoft-certified-azure-data-fundamentals.png">
