@@ -16,6 +16,8 @@
 
 ### Minhas Badges de Certificação
 
-[![BADGE AI-900](./assets/microsoft-certified-azure-ai-fundamentals.png)](https://www.credly.com/badges/d6bdb4ad-036e-460c-8831-1551e61ece62) 
+<div style="display: inline_block"><br>
+  <img align="center" alt="BADGE AI-900" height="125" width="125" src="./assets/microsoft-certified-azure-ai-fundamentals.png">
+  <img align="center" alt="BADGE DP-900" height="125" width="125" src="./assets/microsoft-certified-azure-data-fundamentals.png">
+</div>
 
-[![Veja meu badge](./assets/microsoft-certified-azure-data-fundamentals.png)]([https://www.credly.com/badges/d6bdb4ad-036e-460c-8831-1551e61ece62](https://www.credly.com/badges/d6bdb4ad-036e-460c-8831-1551e61ece62/public_url))
