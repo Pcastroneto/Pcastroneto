@@ -22,6 +22,9 @@
   <a href="https://www.credly.com/badges/d3e72faa-2492-4c38-b873-d87e3399d02c/public_url">
     <img align="center" alt="BADGE DP-900" height="155" width="155" src="./assets/microsoft-certified-azure-data-fundamentals.png">
   </a>
+</div>
+
+<div style="display: inline_block"><br>
   <a href="https://www.credly.com/badges/e191b3a3-fea8-428d-bc77-9c74e7cdf592/public_url">
     <img align="center" alt="computer-hardware-basics" height="155" width="155" src="https://github.com/user-attachments/assets/3443ff17-68e5-4fa8-aa1a-4bc3d321690e">
   </a>
