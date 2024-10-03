@@ -25,8 +25,7 @@
   <a href="https://www.credly.com/badges/e191b3a3-fea8-428d-bc77-9c74e7cdf592/public_url">
     <img align="center" alt="computer-hardware-basics" height="155" width="155" src="https://github.com/user-attachments/assets/3443ff17-68e5-4fa8-aa1a-4bc3d321690e">
   </a>
+  <a href="https://www.credly.com/badges/e191b3a3-fea8-428d-bc77-9c74e7cdf592/public_url">
+    <img align="center" alt="python-essentials-1" height="155" width="155" src="https://github.com/user-attachments/assets/b7a5437a-b59d-414e-8d5e-8933b647acff">
+  </a>
 </div>
-
-  
-
-
