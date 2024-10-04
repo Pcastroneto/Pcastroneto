@@ -13,7 +13,7 @@
 </div>
 
 
-### Minhas Badges
+## Minhas Badges
 
 <div style="display: inline_block"><br>
   <a href="https://www.credly.com/badges/d6bdb4ad-036e-460c-8831-1551e61ece62/public_url">
