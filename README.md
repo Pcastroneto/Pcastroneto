@@ -5,17 +5,13 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/2cdd61c5-d4b7-456c-8b0c-584f880d46ee" alt="code-moment">
 </div>
-
----
-
-[![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pcastroneto/)
-
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://streak-stats.demolab.com?user=Pcastroneto&theme=dark&hide_border=true&border_radius=6.4&locale=pt_BR&background=000000&ring=B71001&fire=D51301&currStreakLabel=FF1601&hide_longest_streak=true" alt="GitHub Streak" />
-</div>
 
+## Github Statistics
+| ![Github Top Langs](https://streak-stats.demolab.com?user=pcastroneto&theme=shadow_red&locale=pt_BR) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pcastroneto&theme=shadow_red&show_icons=true&locale=pt-br) |
+|----------- | ----------- |
 
-## Minhas Badges
+## My Badges
 
 <div style="display: inline_block"><br>
   <a href="https://www.credly.com/badges/d6bdb4ad-036e-460c-8831-1551e61ece62/public_url">
@@ -34,3 +30,6 @@
     <img align="center" alt="python-essentials-1" height="155" width="155" src="https://github.com/user-attachments/assets/b7a5437a-b59d-414e-8d5e-8933b647acff">
   </a>
 </div>
+
+## You can find me here!
+[![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pcastroneto/)
