@@ -1,6 +1,6 @@
 <div align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F31313&center=true&vCenter=true&width=586&height=52&lines=Hello!+My+name+is+Paulo.+Welcome+to+my+profile!!" alt="Typing SVG" /></a>
-  <img src="/assets/TimeToCode.gif" alt="code-moment">
+  <img src="/assets/TimeToCode.gif" alt="TimeToCode">
 </div>
 <div style="display: flex; justify-content: center; align-items: center;">
 
