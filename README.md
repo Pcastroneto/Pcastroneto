@@ -8,7 +8,7 @@
 | ![Github Top Langs](https://streak-stats.demolab.com?user=pcastroneto&theme=shadow_red&locale=pt_BR) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pcastroneto&theme=shadow_red&show_icons=true&locale=pt-br) |
 |----------- | ----------- |
 
-## My Badges
+## My Badges:
 
 <div style="display: inline_block"><br>
   <a href="https://www.credly.com/badges/d6bdb4ad-036e-460c-8831-1551e61ece62/public_url">
